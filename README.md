@@ -20,6 +20,8 @@ Working at a startup that’s building a new and disruptive application named Kr
 ### The sender’s address balance and history
 <img width="1194" alt="Screen Shot 2022-09-21 at 1 48 49 pm" src="https://user-images.githubusercontent.com/102783432/191411598-c7ac9445-7c84-49fb-acfa-a0124f600a1a.png">
 
+<img width="1193" alt="Screen Shot 2022-09-21 at 2 04 35 pm" src="https://user-images.githubusercontent.com/102783432/191412004-e1fed6d6-7bf9-4c42-8582-20513c1c73fe.png">
+
 -
 -
 -
