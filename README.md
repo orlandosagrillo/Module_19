@@ -33,4 +33,4 @@ Working at a startup that’s building a new and disruptive application named Kr
 
 - This image displays the affect the transfer had on the recipient's address balance and history.
 - The image concludes that the deployement of contracts, developement of applications, and the tests that have been ran, are successful
-- In doing so confirming the achievement of setting up a personal Ethereum Blockchain for testing solidity contracts
+- In doing so, confirmed the achievement of setting up a personal Ethereum Blockchain for testing. And to determine if instant payment to hired fintech professionals with cryptocurrency is achieveable.
